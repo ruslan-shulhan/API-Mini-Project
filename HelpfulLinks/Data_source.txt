@@ -1,0 +1,4 @@
+https://www.quandl.com
+
+HTTP info:
+https://docs.quandl.com/docs/in-depth-usage
